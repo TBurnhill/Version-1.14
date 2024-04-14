@@ -3,3 +3,4 @@ Project has been outlined below:
 
 - Further bug fixes and changes
 - Feature request for receipt printing
+- Test for changes on GitHub desktop
